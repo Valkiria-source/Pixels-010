@@ -1,0 +1,9 @@
+{
+  "appId": "com.maupitistudios.pixels",
+  "appName": "PIXELS",
+  "webDir": "www",
+  "backgroundColor": "#fbfbfd",
+  "android": {
+    "backgroundColor": "#fbfbfd"
+  }
+}
